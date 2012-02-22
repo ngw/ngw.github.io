@@ -10,7 +10,7 @@ StyleJam is closing down. It's closing down mainly because of my poor management
 
 I still managed to learn something out of what happened, and I'll gladly share it with everyone else. I don't think that what I'm going to write is that original or interesting, but I decided to leave the classic *"note to myself"* in order to, at least, move to a different set of mistakes with my next adventure without repeating the old ones.
 
-For clarity: StyleJam was a platform web designers could use to host their portfolios. The *"cool"* thing about it is that the only thing we did was generating the HTML with the data the designer provided, and then let him be completely free when styling it by uploading their own CSS and images. It was some kind of [CSSZenGarden](http://csszengarden.com) on steroids.
+For clarity: StyleJam was a platform web designers could use to host their portfolios. The *"cool"* thing about it is that the only thing we did was generating the HTML with the data the designer provided, and then let him be completely free when styling it by uploading his own CSS and images. It was some kind of [CSSZenGarden](http://csszengarden.com) on steroids.
 
 <hr />
 
