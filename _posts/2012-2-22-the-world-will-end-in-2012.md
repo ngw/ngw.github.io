@@ -37,13 +37,13 @@ One of the things that struck me the most in this whole adventure was the fact t
 
 If you reduce StyleJam to its minimal terms what you have is a lesser Behance. Yes, designers could have appreciated the fact that they were actually using their real skills to produce their own portfolios instead of only uploading a ton of screenshots, but what are the **real** benefits?
 
-When we discussed internally the whole idea it was _"hey, then it will be pretty much like a real website isn't it? It will be some kind of useful CSSZenGarden!"_. The fact I love CSS and design and that it was super cool to have a platform based on CSS completely blindfolded me.
+When we discussed internally the whole idea it was _"hey, then it will be pretty much like a real website isn't it? It will be some kind of useful CSSZenGarden!"_. The fact I love CSS and design and the fact that it was super cool to have a platform based on CSS completely blindfolded me.
 
 It's quite embarassing now, but I think about the fact that web designers tend to make websites, making the whole point a moot point. Hey, I make websites for a living, what a wonderful platform we have here that makes me do what I already do 24/7. __Gosh__.
 
 Add to this a very steep learning curve and you have a recipe for disaster.
 
-Here I must really thank [Andy Rutledge](http://andyrutledge.com/) for pointing that out when asked to be one of our advisors. Unfortunately I had to learn it the hard way. Andy, once again, you were right. We didn't have any disagreement for what it worths, I was in love and didn't listen.
+Here I must really thank [Andy Rutledge](http://andyrutledge.com/) for pointing that out when asked to be one of our advisors. Unfortunately I had to learn it the hard way. Andy, once again, you were right. We didn't have any disagreement for what it worths, I was in love and you told me my girlfriend was cheating on me.
 
 Bottom line: **be useful, not cool**.
 
@@ -55,13 +55,13 @@ Bottom line: **be useful, not cool**.
 
 Sorry people, but I must admit: being nice and patient definitely doesn't pay off. Not even close.
 
-I had **one iteration** available without even knowing it, just because I trusted the wrong people. I have no knowledge of any startup that succeeded at the first try: I am not using Twitter through SMS, I'm not using thefacebook because I'm a student, and I'm not playing Flickr.
+I had **one iteration** available without even knowing it, just because I trusted the wrong people. I have no knowledge of any startup that succeeded at the first try: I am not using Twitter through SMS, I'm not looking at "thefacebook" because I'm a student, and I'm not playing Flickr.
 
-If everybody that had to give me a service actually did it, or if everybody that actually had to work really worked, I would maybe be telling a different story. Unfortunately there's a good and nice guy under this <acronym title="Bastard Operator From Hell">BOFH</acronym> shell, and I avoided contrast at all costs. I was wrong, if you want to make a business you have to become a businessman. Most important: friendship is a two way relationship - once I will get it, I promise.
+If everybody that had to give me a service actually did it, or if everybody that actually had to work on the project really worked, I would maybe be telling a different story. Unfortunately there's a good and nice guy under this <acronym title="Bastard Operator From Hell">BOFH</acronym> shell, and I avoided contrast at all costs. I was wrong, if you want to make a business you have to become a businessman. Most important: friendship is a two way relationship - once I will get it, I promise.
 
 Once again, talk is very cheap: you want __*personal and direct commitment*__, and you want it by facts, not chitchat.
 
-I don't say this because "I've been screwed", I was the CEO and I had to make it happen. I say this because if you don't insist and you don't pretend people to deliver what they promised, you're hurting yourself, your company, your investors, and making your startup's ecosystem very unhealthy.
+I don't say this because _"I've been screwed"_, I was the CEO and I had to make it happen. I say this because if you don't insist and you don't pretend people to deliver what they promised you're hurting yourself, your company, your investors, and making your startup's environment very unhealthy and unpleasant.
 
 <hr />
 
@@ -73,9 +73,9 @@ In the web design industry there are a lot of important personalities, and one o
 
 Doing something like that is rather normal, my mistake was relying way too much on this people, especially after discovering that most of them are, &#94;cough&#94;, a little bit volatile.
 
-In the best case, a discussion was started and after a while the guy just stops answering. I mean, seriously. Like you're talking with someone, and suddenly he drops down dead. Unpolite, a little bit childish, but still more or less normal.
+In the best case, a discussion was started and after a while the guy just stopped answering. I mean, seriously, like you're talking with someone and suddenly he drops down dead. Unpolite, a little bit childish, but still more or less normal.
 
-What's weird is when one of these guys actually accepts to be your advisor, you pay a lawyer to give him the shares, you tell your team and your investors, and again, he completely disappears. I'm not going to say who it was, just trust me, __*big big*__ name. He didn't even answer to a "Merry Christmas" email. And before you ask, we're talking about at most 6 emails in 6 months, I definitely wasn't bugging him all day long. I'm not whining about him changing his mind, I just think that it's very bad not telling me. Ok, you changed your mind, it's not like I'm going to do something or be angry, it happens. Just tell me.
+What's weird is when one of these guys actually accepted to be my advisor, I paid a lawyer to give him shares, I told my team and my investors, and again, he completely disappears. I'm not going to say who it was, just trust me, __*big big*__ name. He didn't even answer to a "Merry Christmas" email. And before you ask, we're talking about at most 6 emails in 6 months, I definitely wasn't bugging him all day long. I'm not whining about him changing his mind, I just think that it's very bad not telling me. Ok, you changed your mind, it's not like I'm going to do something or be angry, it happens. Just tell me.
 
 Do not rely on shortcuts, as I already said, talk is cheap, lots of people is willing to jump on the winner's bandwagon, not many are willing to do the work, even if it's only answering a couple of emails or telling a bunch of friends about you.
 
