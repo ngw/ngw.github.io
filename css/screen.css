@@ -77,6 +77,10 @@ aside {
 	font-size: 0.8em;
 }
 
+aside p {
+	margin: 1.5em 0 1.5em 0;
+}
+
 hr {
 	position: relative;
 	border : 0;
