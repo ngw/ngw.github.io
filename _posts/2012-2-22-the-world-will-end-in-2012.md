@@ -59,7 +59,7 @@ I had **one iteration** available without even knowing it, just because I truste
 
 If everybody that had to give me a service actually did it, or if everybody that actually had to work really worked, I would maybe be telling a different story. Unfortunately there's a good and nice guy under this <acronym title="Bastard Operator From Hell">BOFH</acronym> shell, and I avoided contrast at all costs. I was wrong, if you want to make a business you have to become a businessman. Most important: friendship is a two way relationship - once I will get it, I promise.
 
-Once again, words are very cheap: you want __*personal and direct commitment*__, and you want it by facts, not chitchat.
+Once again, talk is very cheap: you want __*personal and direct commitment*__, and you want it by facts, not chitchat.
 
 I don't say this because "I've been screwed", I was the CEO and I had to make it happen. I say this because if you don't insist and you don't pretend people to deliver what they promised, you're hurting yourself, your company, your investors, and making your startup's ecosystem very unhealthy.
 
