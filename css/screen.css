@@ -73,8 +73,9 @@ article ul {
 }
 
 aside {
-	margin: 4em 8em;
+	margin: 6em;
 	font-size: 0.8em;
+	text-align: center;
 }
 
 aside p {
