@@ -1,0 +1,144 @@
+@import url(http://fonts.googleapis.com/css?family=Arvo|Amethysta);
+
+body {
+	font-family: 'Amethysta', Georgia, "Times New Roman", serif;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Arvo', Helvetica, Arial, sans-serif;
+	color: #d5302c;
+}
+
+header h1 {
+	margin:  2em 0 1em 2em;
+	font-size:  2.5em;
+	text-align: left;
+}
+
+article header h1 {
+	margin:  1em auto;	
+}
+
+article h2 {
+	font-size: 1.5em;
+	margin: 0em auto 0 auto;
+}
+
+a {
+	font-weight: normal;
+	color: #0041a8;
+	font-style: normal;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+section {
+	margin-left: 6em;
+}
+
+em {
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+}
+
+article {
+	margin: 0 6em 0 6em;
+	font-size: 1em;
+	line-height: 2em;
+}
+
+article p {
+	margin: 1.5em 2em 0.5em 2em;
+}
+
+article img {
+	display: block;
+	margin: 3em auto 3em auto;
+}
+
+article img.head-img {
+	margin: 1em auto 4em auto;
+}
+
+article ul {
+	margin-left: 1.2em;
+	list-style-type: square;
+	list-style-position: outside;
+}
+
+aside {
+	margin: 4em 8em;
+	font-size: 0.8em;
+}
+
+hr {
+	position: relative;
+	border : 0;
+	height : 38px;
+	width: 58px;
+	margin: 2.5em auto 2.5em auto;
+	background: url(../images/tilde.png) 0 0 no-repeat;
+}
+
+acronym {
+	border-bottom: 0.1em dashed #000;
+}
+
+a acronym {
+	border-bottom: 0.1em dashed #0041a;
+}
+
+section#about p {
+	margin-top: 1em;
+}
+
+section#essays h2 {
+	margin: 1.6em 0 0.4em 0;
+	font-size: 1.6em;
+}
+
+section#essays ul {
+	list-style-position: inside;
+	list-style-type: square;
+}
+
+section#essays ul li {
+	padding: 1.2em 0 0 0.6em;
+	font-size: 1.2em;
+}
+
+section#essays h3 {
+	padding: 0.6em 0 1em 1em;
+}
+
+a#homepage {
+	display: block;
+	margin: 1em 0 0 5.5em;
+	font-size: 1.2em;
+}
+
+article p#meta {
+	text-align: right;
+	margin: 0 4.5em 2.5em 0;
+	font-style: italic;
+	font-size: 0.8em;
+}
+
+p#signature {
+	padding: 2em;
+	font-size: 1.1em;
+	text-align: right;
+	font-style: italic;
+}
+
+p#signature span {
+	padding-left: 0.4em;
+	font-weight: bolder;
+	text-decoration: underline;
+}

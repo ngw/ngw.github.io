@@ -1,0 +1,22 @@
+---
+layout: default
+title: NoFeed &#126; No Music for the Masses
+---
+<header>
+  <h1> {{ page.title }} </h1>
+</header>
+
+<section id="about">
+  <p>My name is Nicholas George Wieland (or <a href="http://twitter.com/ngw"><acronym title="Nicholas George Wieland">ngw</acronym></a>), I'm a coder.</p>
+  <p>I used to live in <a href="http://en.wikipedia.org/wiki/Seattle"> Seattle </a> and <a href="http://en.wikipedia.org/wiki/Moscow"> Moscow</a>. I'm currently based in <a href="http://en.wikipedia.org/wiki/Mantua"> <strong> Mantua </strong> </a>.</p>
+  <p>I like <em>lisps</em>, <em>good wines</em> and <em>good startups</em>. Possibly together.</p>
+</section>
+
+<section id="essays">
+  <h2> I write stuff: </h2>
+  <ul>
+  {% for post in site.posts %}
+    <li><time datetime={{ post.date | date_to_xmlschema }}>{{ post.date | date_to_string }}</time>: <h3><a href="{{ post.url }}">{{ post.title }}</a></h3></li>
+  {% endfor %}
+  </ul>
+</section>
