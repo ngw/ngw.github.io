@@ -40,7 +40,7 @@ If you reduce StyleJam to its minimal terms what you have is a lesser Behance. Y
 
 When we discussed internally the whole idea it was _"hey, then it will be pretty much like a real website isn't it? It will be some kind of useful CSSZenGarden!"_. The fact I love CSS and design and the fact that it was super cool to have a platform based on CSS completely blindfolded me.
 
-It's quite embarassing now, but I think about the fact that web designers tend to make websites, making the whole point a moot point. Hey, I make websites for a living, what a wonderful platform we have here that makes me do what I already do 24/7. __Gosh__.
+It's quite embarassing now, but web designers tend to make websites, and this makes the whole proposition a moot point. Hey, I make websites for a living, what a wonderful platform we have here that makes me do what I already do 24/7. __Gosh__.
 
 Add to this a very steep learning curve and you have a recipe for disaster.
 
