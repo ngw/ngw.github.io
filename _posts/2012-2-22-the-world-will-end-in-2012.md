@@ -74,9 +74,9 @@ In the web design industry there are a lot of important personalities, and one o
 
 Doing something like that is rather normal, my mistake was relying way too much on this people, especially after discovering that most of them are, &#94;cough&#94;, a little bit volatile.
 
-In the best case, a discussion was started and after a while the guy just stopped answering. I mean, seriously, like you're talking with someone and suddenly he drops down dead. Unpolite, a little bit childish, but still more or less normal.
+In the best case, a discussion was started and after a while the guy just stopped answering. I mean, seriously, like you're talking with someone and suddenly he drops down dead. Impolite, a little bit childish, but still more or less normal.
 
-What's weird is when one of these guys actually accepted to be my advisor, I paid a lawyer to give him shares, I told my team and my investors, and again, he completely disappears. I'm not going to say who it was, just trust me, __*big big*__ name. He didn't even answer to a "Merry Christmas" email. And before you ask, we're talking about at most 6 emails in 6 months, I definitely wasn't bugging him all day long. I'm not whining about him changing his mind, I just think that it's very bad not telling me. Ok, you changed your mind, it's not like I'm going to do something or be angry, it happens. Just tell me.
+What's weird is when one of these guys actually accepted to be my advisor, I paid a lawyer to give him shares, I told my team and my investors, and again, he completely disappeared. I'm not going to say who it was, just trust me, __*big big*__ name. He didn't even answer to a "Merry Christmas" email. And before you ask, we're talking about at most 6 emails in 6 months, I definitely wasn't bugging him all day long. I'm not whining about him changing his mind, I just think that it's very bad not telling me. Ok, you changed your mind, it's not like I'm going to do something or be angry, it happens. Just tell me.
 
 Do not rely on shortcuts, as I already said, talk is cheap, lots of people is willing to jump on the winner's bandwagon, not many are willing to do the work, even if it's only answering a couple of emails or telling a bunch of friends about you.
 
