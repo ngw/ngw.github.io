@@ -3,6 +3,7 @@ layout: post
 title: "The world will end in 2012: I fucked up."
 location: Mantova
 hn: "http://www.hackerne.ws/item?id=3621291"
+description: "The one where ngw destroys his own company and manages to learn something in the process."
 ---
 <img src='/images/1/mayancalendarpiraro.jpg' class='head-img' />
 
