@@ -4,10 +4,12 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title> {{ page.title }} </title>
-  <meta name="description" content="{{ page.description }}" />
+  <meta name="description" content="{{ page.description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <link rel="shortcut icon" href="/images/favicon.ico" />
   <link rel="stylesheet" type="text/css" href="/css/reset.css" media="all" />
-  <link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="/css/resume.css" media="screen" />
+	<link rel="stylesheet/less" type="text.css" href="/css/resume.less" />
   <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-29408123-1']);
@@ -18,13 +20,11 @@
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
   </script>
-  <script type="text/javascript" src="/javascripts/modernizr.js"></script>
+  <script type="text/javascript" src="/javascripts/less-1.2.2.min.js"></script>
 </head>
 
 <body>
-  
-  {{ content }}
-  
-<body>
 
-</html>
+  {{ content }}
+
+</body>
