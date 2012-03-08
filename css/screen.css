@@ -104,7 +104,11 @@ acronym {
 }
 
 section#about p {
-	margin-top: 1em;
+	margin: 1em 1em 0 0;
+}
+
+section#essays {
+	margin-bottom: 4em;
 }
 
 section#essays h2 {
