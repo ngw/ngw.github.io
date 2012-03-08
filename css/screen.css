@@ -11,7 +11,8 @@ h1, h2, h3, h4 {
 
 header h1 {
 	margin:  2em 0 1em 2em;
-	font-size:  2.5em;
+	font-size: 2.5em;
+	line-height: 1.4em;
 	text-align: left;
 }
 
@@ -57,13 +58,20 @@ article p {
 	margin: 1.5em 2em 0.5em 2em;
 }
 
-article img {
-	display: block;
+article figure {
+	display:  block;
+	width: 50%;
 	margin: 3em auto 3em auto;
 }
 
-article img.head-img {
-	margin: 1em auto 4em auto;
+article figure figcaption {
+	width: 100%;
+	font-size: 0.8em;
+	font-style: italic;
+	color: #636363;
+	text-align: center;
+	margin: auto;
+	padding: 0 0.2em 0 0.2em;
 }
 
 article ul {
@@ -95,16 +103,12 @@ acronym {
 	border-bottom: 0.1em dashed #000;
 }
 
-a acronym {
-	border-bottom: 0.1em dashed #0041a;
-}
-
 section#about p {
 	margin-top: 1em;
 }
 
 section#essays h2 {
-	margin: 1.6em 0 0.4em 0;
+	margin: 1.6em 0 0.6em 0;
 	font-size: 1.6em;
 }
 
@@ -114,7 +118,7 @@ section#essays ul {
 }
 
 section#essays ul li {
-	padding: 1.2em 0 0 0.6em;
+	padding: 0.8em 0 0 0.6em;
 	font-size: 1.2em;
 }
 
@@ -124,15 +128,54 @@ section#essays h3 {
 
 a#homepage {
 	display: block;
-	margin: 1em 0 0 5.5em;
+	margin: 2em 0 0 5em;
 	font-size: 1.2em;
+}
+
+article table {
+	margin: 3em 3.5em;
+}
+
+article table thead td {
+	padding: 0.8em 1.2em 0.2em 1em;
+	font-size: 1em;
+	width: 50%;
+}
+
+article table thead h3 {
+	border-bottom: 0.1em solid #d5302c;
+}
+
+article table tbody td {
+	padding: 0.8em 1.2em 0.2em 1.2em;
+	font-size: 0.9em;
+}
+
+article table tbody td p {
+	margin: 0;
 }
 
 article p#meta {
 	text-align: right;
-	margin: 0 4.5em 2.5em 0;
+	margin: 0 4em 2.5em 0;
 	font-style: italic;
 	font-size: 0.8em;
+}
+
+article aside {
+	text-align: left;
+	font-size: 0.8em;
+	margin: 5em;
+	border-left: 0.4em solid #636363;
+}
+
+article aside p {
+	padding-left:  1em;
+}
+
+article aside dfn {
+	color: #636363;
+	font-weight: bold;
 }
 
 p#signature {

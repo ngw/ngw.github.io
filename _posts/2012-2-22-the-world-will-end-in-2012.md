@@ -5,7 +5,9 @@ location: Mantova
 hn: "http://www.hackerne.ws/item?id=3621291"
 description: "The one where ngw destroys his own company and manages to learn something in the process."
 ---
-<img src='/images/1/mayancalendarpiraro.jpg' class='head-img' />
+<figure>
+  <img src='/images/1/mayancalendarpiraro.jpg' />
+</figure>
 
 StyleJam is closing down. It's closing down mainly because of my poor management. Don't worry, it's ok, that was my first startup and I never bought the _"open a company - magic happens - you're Zuck"_ loop. __*Shit happens.*__
 
@@ -17,7 +19,9 @@ For clarity: StyleJam was a platform web designers could use to host their portf
 
 ## Do stuff people need. ##
 
-<img src='/images/1/brown_zune.jpg' />
+<figure>
+  <img src='/images/1/brown_zune.jpg' />
+</figure>
 
 First thing first, the main reason StyleJam went down was that it was unneeded. I discovered that as soon as mid November of last year, after talking with a good amount of web designers.
 
@@ -33,7 +37,9 @@ If you want an interview to be useful, you're going to need _**personal direct c
 
 ## Refuse the temptation to be cool. ##
 
-<img src='/images/1/cool_kid.jpg' />
+<figure>
+  <img src='/images/1/cool_kid.jpg' />
+</figure>
 
 One of the things that struck me the most in this whole adventure was the fact that I've been completely unable to reduce the product to its minimal terms. I kept concentrating on the how, and ignored the why.
 
@@ -53,7 +59,9 @@ Bottom line: **be useful, not cool**.
 
 ## Be evil. ##
 
-<img src='/images/1/dr-evil.jpg' />
+<figure>
+  <img src='/images/1/dr-evil.jpg' />
+</figure>
 
 Sorry people, but I must admit: being nice and patient definitely doesn't pay off. Not even close.
 
@@ -69,7 +77,9 @@ I don't say this because _"I've been screwed"_, I was the CEO and I had to make 
 
 ## Beware of shortcuts. ##
 
-<img src='/images/1/shortcuts.jpg' />
+<figure>
+  <img src='/images/1/shortcuts.jpg' />
+</figure>
 
 In the web design industry there are a lot of important personalities, and one of my strategies included offering shares to one of these gurus in exchange of some advisory.
 
