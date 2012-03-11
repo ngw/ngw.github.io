@@ -103,7 +103,7 @@ acronym {
 	border-bottom: 0.1em dashed #000;
 }
 
-a acronym {
+a:hover acronym {
 	text-decoration: none;
 }
 
