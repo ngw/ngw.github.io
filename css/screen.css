@@ -103,6 +103,10 @@ acronym {
 	border-bottom: 0.1em dashed #000;
 }
 
+a acronym {
+	text-decoration: none;
+}
+
 section#about p {
 	margin: 1em 1em 0 0;
 }
