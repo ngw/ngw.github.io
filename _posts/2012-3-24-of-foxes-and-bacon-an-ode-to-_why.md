@@ -70,7 +70,7 @@ I would like to build a company to see my own idea flourish and to help a busine
 
 At this point, I'm convinced that \_why was one of the main reasons, if not the main, to think that the Ruby community is nice. Yes, if you ask a question on ruby-talk it's most likely the answers you will get will be super-nice, and Matz is probably one of the nicest guys in the industry. \_why, on the other hand, was so uncommon and weirdly gentle to give a very strong example and leave a lasting impression. His way of approaching problems, taking always not immediately obvious paths, is something you can see all over the Ruby ecosystem.
 
-***
+*** 
 
 ## Seppuku.
 
