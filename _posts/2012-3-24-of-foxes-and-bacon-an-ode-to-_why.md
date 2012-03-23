@@ -3,6 +3,7 @@ layout: post
 title: "Of foxes and bacon: an ode to _why."
 description: "The one where ngw loves _why to the 'let's get married soon' level."
 location: Mantova
+hn: http://www.hackerne.ws/item?id=3746041
 ---
 _I wanted to write this post since I've read [an article appeared on Slate about one of my heroes](http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.html): [\_why the lucky stiff](http://en.wikipedia.org/wiki/Why_the_lucky_stiff). The article is very thorough and enjoyable, it definitely worths a read, so if you don't know who \_why was and are for some inexplicable reasons interested in what I have to say, you should go there first._
 
