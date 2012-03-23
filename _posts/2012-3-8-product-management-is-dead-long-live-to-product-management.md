@@ -47,19 +47,19 @@ What is a product? A product is an assumption. You __*think*__ that some people 
 	</thead>
 	<tbody>
 		<td><p>Someone thinks some people need something, you build a full featured product that responds to that need.</p></td>
-		<td><p>Someone thinks people need something, you build an <acronym title="Minimal Viable Product">MVP</acronym> to know if it's true.</p></td>
+		<td><p>Someone thinks people need something, you build an <abbr title="Minimal Viable Product">MVP</abbr> to know if it's true.</p></td>
 	</tbody>
 </table>
 
 Quite a jump, isn't it? This has very deep implications on the whole project. Nobody likes to [kill his own darlings](http://c2.com/cgi/wiki?KillYourDarlings), but here we have a process that does just that and is meant from the very beginning to validate every step you make in the development of a product.
 
-Now that you have your <acronym title="Minimal Viable Product">MVP</acronym> you must, in fact, validate it. This is where things get really interesting and fascinating: the point of Lean Startups is to build a company that __*lets you learn*__ by introducing the concept of __*validated learning*__.
+Now that you have your <abbr title="Minimal Viable Product">MVP</abbr> you must, in fact, validate it. This is where things get really interesting and fascinating: the point of Lean Startups is to build a company that __*lets you learn*__ by introducing the concept of __*validated learning*__.
 
 <aside>
 	<p><dfn>Validated learning</dfn>: Rigorous method for demonstrating progress when one is embedded in the soil of extreme uncertainty in which startup grows. Validated learning is always demonstrated by positive improvements in the startup’s core metrics.</p>
 </aside>
 
-To make it simpler, your <acronym title="Minimal Viable Product">MVP</acronym> must be measurable, and the unit of measurement is __*validated learning*__. This part should be well known to product managers, you use metrics like a/b tests, time on page, face to face interviews and many other metrics, to learn how to improve what you just built. What's different is the context a product manager is moving in, normally we build something because we believe that it's somewhat needed, and if data tells us the contrary it's an implementation problem. Lean startups take a wider approach by questioning the existence of the feature itself and it's usefulness for the customer/market  the product is serving, and this changes significantly the way an interview is conducted or data interpreted.
+To make it simpler, your <abbr title="Minimal Viable Product">MVP</abbr> must be measurable, and the unit of measurement is __*validated learning*__. This part should be well known to product managers, you use metrics like a/b tests, time on page, face to face interviews and many other metrics, to learn how to improve what you just built. What's different is the context a product manager is moving in, normally we build something because we believe that it's somewhat needed, and if data tells us the contrary it's an implementation problem. Lean startups take a wider approach by questioning the existence of the feature itself and it's usefulness for the customer/market  the product is serving, and this changes significantly the way an interview is conducted or data interpreted.
 
 <table>
 	<thead>
