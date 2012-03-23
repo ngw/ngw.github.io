@@ -12,7 +12,7 @@ _I wanted to write this post since I've read [an article appeared on Slate about
 
 One of the first things I did when I went to Seattle for the first time was hooking up with the [local Ruby community](http://www.seattlerb.org/). After a quick chat by email with a super-nice [Ryan Davis](http://zenspider.com) I picked up my dev team of the time and went to Vivace Cafe. We're talking about the end of 2008, more or less.
 
-I'm not a community guy, I don't like talking in public about _"my stuff"_, I'm introverse, and that was a "no-no" situation for me: a room full of geeks with whom I share at least one interest (Ruby). In these situation, this is what happens in my head:
+I'm not a community guy, I don't like talking in public about _"my stuff"_, I'm an introvert, and that was a "no-no" situation for me: a room full of geeks with whom I share at least one interest (Ruby). In these situation, this is what happens in my head:
 
 <blockquote>&ldquo;Look, Ryan Davies and Eric Hodel, I read their blogs since forever. How many interesting informations I can gather from this lucky encounter. Let's just grab some beer and make stupid and inappropriate jokes now&bdquo;</blockquote>
 
@@ -68,7 +68,7 @@ I believe that we're mixing \_why's motivations with out own here. He wanted to 
 
 I would like to build a company to see my own idea flourish and to help a business I care about and not to sell it to Facebook/Google like most: does this make me a sloppy entrepreneur? I don't think so.
 
-At this point, I'm convinced that \_why was one of the main reasons, if not the main, to think that the Ruby community is nice. Yes, if you ask a question on ruby-talk it's most likely the answers you will get will be super-nice, and Matz is probably one of the nicest guys in the industry. \_why, on the other hand, was so uncommon and weirdly gentle to give a very strong example.
+At this point, I'm convinced that \_why was one of the main reasons, if not the main, to think that the Ruby community is nice. Yes, if you ask a question on ruby-talk it's most likely the answers you will get will be super-nice, and Matz is probably one of the nicest guys in the industry. \_why, on the other hand, was so uncommon and weirdly gentle to give a very strong example and leave a lasting impression. His way of approaching problems, taking always not immediately obvious paths, is something you can see all over the Ruby ecosystem.
 
 ***
 
@@ -81,7 +81,7 @@ At this point, I'm convinced that \_why was one of the main reasons, if not the 
 
 I seriously couldn't care less about \_why's real name. It's just not an information I care about. I respect his wish to stay anonymous as _**something that doesn't affect me in any way**_.
 
-I believe his [seppuku](http://en.wikipedia.org/wiki/Seppuku) is definitely in line with the man - fuck, I already spend most of my time thinking about software, I can't keep whining about it when a guy that gave me so much just wants to go away.
+I believe his [seppuku](http://en.wikipedia.org/wiki/Seppuku) is definitely in line with the man - f*ck, I already spend most of my life thinking about software, I can't keep whining about it when a guy that gave me so much just wants to go away.
 
 I'm very grateful to \_why as I'm grateful to a friend with whom I spent some good time, and then lost touch with.
 
