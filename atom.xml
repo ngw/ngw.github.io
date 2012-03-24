@@ -18,7 +18,7 @@ layout: nil
    <title>{{ post.title }}</title>
    <link href="http://nofeed.org{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>BLOG_URL{{ post.id }}</id>
+   <id>http://nofeed.org{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
