@@ -82,7 +82,7 @@ At this point, I'm convinced that \_why was one of the main reasons, if not the 
 
 I seriously couldn't care less about \_why's real name. It's just not an information I care about. I respect his wish to stay anonymous as _**something that doesn't affect me in any way**_.
 
-I believe his [seppuku](http://en.wikipedia.org/wiki/Seppuku) is definitely in line with the man - f*ck, I already spend most of my life thinking about software, I can't keep whining about it when a guy that gave me so much just wants to go away.
+I believe his [seppuku](http://en.wikipedia.org/wiki/Seppuku) is definitely in line with the man - f\*ck, I already spend most of my life thinking about software, I can't keep whining about it when a guy that gave me so much just wants to go away.
 
 I'm very grateful to \_why as I'm grateful to a friend with whom I spent some good time, and then lost touch with.
 
