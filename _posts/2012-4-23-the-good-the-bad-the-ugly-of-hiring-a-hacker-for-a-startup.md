@@ -3,6 +3,7 @@ layout: post
 title: "The good, the bad and the ugly of hiring a hacker for a startup."
 meta_title: "The bad, the good and the ugly when hiring a hacker for a startup | NoFeed.org"
 location: Mantova
+hn: "http://www.hackerne.ws/item?id=3880767"
 description: "The one where ngw talks with lots of startups and gets an idea about why finding hackers is kind of a problem for them"
 ---
 Lately I've been talking with a lot of startups: some with good ideas, some with bad ones, **pretty much all of them with issues in their hiring process**, which is very unfortunate. I never was under the impression that someone was trying to screw me up or doing something shady, I can generally say that it was (*almost always*) good people trying to make a good job for their companies.
