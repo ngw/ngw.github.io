@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Of foxes and bacon: an ode to _why."
+meta_title: "Of foxes and bacon: an ode to _why | NoFeed.org"
 description: "The one where ngw loves _why to the 'let's get married soon' level."
 location: Mantova
 hn: http://www.hackerne.ws/item?id=3746041
@@ -59,7 +60,7 @@ I must say that I've always been surprised and admired about this. If it's not f
 _why’s code was sloppy. He was an amazing thinker, but not as good when it came to execution. So, he saw a lot of people take his ideas, and then build them out into more sustainable or workable projects.
 </blockquote>
 
-If I put my programmer hat I can eventually agree with [Mr. Vanderburg][1]. Well, not as much as to call another programmer's code _"sloppy"_ in public with a journalist, but yeah, sometimes \_why's code was kinda difficult to understand and probably maintain. This is by no means an attack to [Glenn Vanderburg](http://vanderburg.org), he is the person behind the [whyday](http://whyday.org/) and obviously didn't intend anything wrong.
+If I put my programmer hat I can eventually agree with [Mr. Vanderburg](http://vanderburg.org). Well, not as much as to call another programmer's code _"sloppy"_ in public with a journalist, but yeah, sometimes \_why's code was kinda difficult to understand and probably maintain. This is by no means an attack to Glenn Vanderburg, he is the person behind the [whyday](http://whyday.org/) and obviously didn't intend anything wrong.
 
 On the other hand, I doubt that a web framework built to stay under <abbr title="Four kylobytes">4 KB</abbr> like camping was built with maintainability in mind. It was clearly a show off of skills to me.
 

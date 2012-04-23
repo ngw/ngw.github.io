@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Product management is dead. Long live product management."
+meta_title: "Product management is dead. Long live product management | NoFeed.org"
 hn: "http://www.hackerne.ws/item?id=3680676"
 location: Mantova
 description: "The one where ngw stops believing in product management but changes his mind before the end of the page."

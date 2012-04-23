@@ -3,7 +3,11 @@
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title> {{ page.title }} </title>
+  {% if page.meta_title %}
+  <title>{{ page.meta_title }}</title>
+  {% else %}
+  <title>{{ page.title }}</title>
+  {% endif %}
   <meta name="description" content="{{ page.description }}" />
   <link rel="shortcut icon" href="/images/favicon.ico" />
   <link rel="stylesheet" type="text/css" href="/css/reset.css" media="all" />
