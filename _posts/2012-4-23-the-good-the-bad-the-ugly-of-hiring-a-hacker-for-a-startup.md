@@ -50,7 +50,7 @@ This post is meant to help more than to criticize, different professions obvious
 <dt>Drinking the kool aid.</dt>
 <dd>
 <p>This will always be a big problem in this industry, companies not having the slightest clue how to make money out of their projects. Maybe I'm unlucky, but I've never seen in my life a project like this not <strong>fading away</strong> in a way or another.</p>
-<p>We all know that some projects have worked out very nicely for their founders and not having a business model for years (Twitter and Instagram, I'm looking at you), but at least show me it's a matter of concern, and not something more or less <em><strong>normal</strong></em> because <em>"that's how startups work"</em>.</p>
+<p>We all know that some projects have worked out very nicely for their founders without having a business model for years (Twitter and Instagram, I'm looking at you), but at least show me it's a matter of concern and not something more or less <em><strong>normal</strong></em> because <em>"that's how startups work"</em>.</p>
 <p>Again, maybe it's just me, but I don't know many ways that are more effective at killing my motivation than not getting any revenue from my work&hellip;</p>
 </dd>
 <dt>Asking for commitment.</dt>
