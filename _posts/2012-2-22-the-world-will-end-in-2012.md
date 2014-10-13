@@ -4,10 +4,10 @@ title: "The world will end in 2012: I fucked up."
 meta_title: "The world will end in 2012: I fucked up | NoFeed.org"
 location: Mantova
 hn: "http://www.hackerne.ws/item?id=3621291"
-description: "The one where ngw destroys his own company and manages to learn something in the process."
+description: "The one where @ngw destroys his own company and manages to learn something in the process."
 ---
 <figure>
-  <img src='/images/1/mayancalendarpiraro.jpg' />
+  <img src='/images/6/zoo-di-105.jpg' />
 </figure>
 
 StyleJam is closing down. It's closing down mainly because of my poor management. Don't worry, it's ok, that was my first startup and I never bought the _"open a company - magic happens - you're Zuck"_ loop. __*Shit happens.*__
