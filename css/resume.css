@@ -1,0 +1,33 @@
+body {
+  font-family: 'Fanwood Text', serif;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Quattrocento', serif;
+}
+
+header h1 {
+  color: #F57000;
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
+header h4 {
+  font-size: 1.2em;
+}
+
+time {
+  text-decoration: underline;
+}
+
+nav {
+  font-size: 1.2em;
+}
+
+.header {
+  margin-bottom: 2.2em;
+}
+
+.updated {
+  float: right;
+}
