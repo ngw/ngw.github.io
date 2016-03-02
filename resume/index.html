@@ -18,39 +18,89 @@
     <div class='container'>
       <div class='row header'>
         <header>
-          <div class='col-md-10'>
+          <div class='col-md-12'>
             <h1>Nicholas George Wieland (<acronym title='Nicholas George Wieland'>ngw</acronym>) resume</h1>
-          </div>
-          <div class='col-md-offset-9 col-md-3'>
-            <h4 class="updated">last updated: <time datetime="2016-03-03T15:33:38+00:00">3-2-2016 15:33</time></h4>
+            <h4>last updated: <time datetime="2016-03-03T15:33:38+00:00">3-2-2016 15:33</time></h4>
           </div>
         </header>
       </div>
 
       <nav class="navbar navbar-default">
-        <div class="container-fluid">
-          <!-- Brand and toggle get grouped for better mobile display -->
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-              <span class="sr-only">Toggle navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-          </div>
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
 
-          <!-- Collect the nav links, forms, and other content for toggling -->
-          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav">
-              <li><a href="#contact" class='active'>Contact information<span class="sr-only">(current)</span></a></li>
-              <li><a href="#experience">Work experience</a></li>
-              <li><a href="#education">Education</a></li>
-              <li><a href="#me">About me</a></li>
-            </ul>
-          </div><!-- /.navbar-collapse -->
-        </div><!-- /.container-fluid -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li class='active'><a href="#contact">Contact information<span class="sr-only">(current)</span></a></li>
+            <li><a href="#experience">Work experience</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#me">About me</a></li>
+          </ul>
+        </div>
       </nav>
+
+      <section name='contact'>
+
+        <h3>Contact information</h3>
+
+        <div class="row">
+          <div class='col-md-6' id='contact'>
+            <dl itemscope itemtype='http://schema.org/Person' class='dl-horizontal' name='contact'>
+              <dt>Name:</dt>
+              <dd itemprop="name">Nicholas George Wieland</dd>
+              <dt>Job title:</dt>
+              <dd itemprop="jobTitle">Coder</dd>
+              <dt>Address:</dd>
+              <dd itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                <span itemprop="streetAddress">
+                  Via dei Fiordalisi 6/3
+                </span>
+                <span itemprop="addressLocality">Milan</span>,
+                <span itemprop="postalCode">20146</span>
+              </dd>
+              <dt>Telephone:</dt>
+              <dd itemprop="telephone">+39 349 6135757</dd>
+              <dt>Email:</dt>
+              <dd><a href="mailto:ngw@nofeed.org" itemprop="email">ngw@nofeed.org</a></dd>
+              <dt>Homepage:</dt>
+              <dd><a href="http://nofeed.org" itemprop="url">http://nofeed.org</a></dd>
+            </dl>
+          </div>
+        </div>
+
+      </section>
+
+      <section name='experience'>
+
+        <h3 name='experience'>Work experience</h3>
+
+        <div itemscope itemtype="http://schema.org/Organization">
+
+          <h4 class='jobtitle' itemprop="jobTitle">Developer</h4>
+          <p><a href="http://thefool.it" itemprop="name">The Fool</a></p>
+          <p><time datetime="2014-09-01T00:00:00+00:00">1st September 2014</time> - Present</p>
+
+          <div itemprop="description">
+            <p>I developed many projects pertaining digital assets management, copyright protection and personal reputation.</p>
+            <p itemtype="http://schema.org/Product">
+              The most prominent is probably <a href="http://ec.reputationmonitor.it/" itemprop="url"><span itemprop="name">EngagementConsole</span></a>,
+              <span itemprop="description">
+                an application that acts as a gateway layer to collect all user generated content from all digital properties (Twitter, Facebook, Instagram,
+                Disqus, Wordpress) managed by the customer at hand, that are then presented via a customized dashboard that lets classify, analyze and manage
+                all the content by any number of moderators and managers.
+              </span>
+            </p>
+          </p>
+        </div>
+
+      </section>
+
     </div>
   </body>
-
 </html>

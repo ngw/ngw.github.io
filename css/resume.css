@@ -6,6 +6,12 @@ h1, h2, h3, h4, h5 {
   font-family: 'Quattrocento', serif;
 }
 
+h3 {
+  margin: 2em 0 1em 0;
+  color: green;
+  font-weight: bold;
+}
+
 header h1 {
   color: #F57000;
   font-weight: bold;
@@ -24,10 +30,22 @@ nav {
   font-size: 1.2em;
 }
 
+section {
+  font-size: 1.2em;
+}
+
+#contact {
+  font-size: 1.2em;
+}
+
+#contact dl dt {
+  text-align: left;
+}
+
 .header {
   margin-bottom: 2.2em;
 }
 
-.updated {
-  float: right;
+.jobtitle {
+  font-weight: bold;
 }
