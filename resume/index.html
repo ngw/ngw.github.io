@@ -3,7 +3,6 @@
 
   <head>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-    <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Quattrocento|Fanwood+Text' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="/css/resume.css" type="text/css" media="screen" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -45,13 +44,13 @@
         </div>
       </nav>
 
-      <section name='contact'>
+      <section id='contact'>
 
         <h3>Contact information</h3>
 
-        <div class="row">
-          <div class='col-md-6' id='contact'>
-            <dl itemscope itemtype='http://schema.org/Person' class='dl-horizontal' name='contact'>
+        <div id='contact' class="row" itemtype='http://schema.org/Person'>
+          <div class='col-md-6'>
+            <dl itemscope class='dl-horizontal' name='contact'>
               <dt>Name:</dt>
               <dd itemprop="name">Nicholas George Wieland</dd>
               <dt>Job title:</dt>
@@ -72,35 +71,115 @@
               <dd><a href="http://nofeed.org" itemprop="url">http://nofeed.org</a></dd>
             </dl>
           </div>
+          <div class='col-md-offset-2 col-md-3'>
+            <img src="/images/resume/personal.jpg" itemprop="image" alt="Photo of Nicholas Wieland"/>
+          </div>
         </div>
 
       </section>
 
-      <section name='experience'>
+      <section id='experience'>
 
         <h3 name='experience'>Work experience</h3>
 
-        <div itemscope itemtype="http://schema.org/Organization">
+        <div class='col-md-12 entry'>
+          <div itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
 
-          <h4 class='jobtitle' itemprop="jobTitle">Developer</h4>
-          <p><a href="http://thefool.it" itemprop="name">The Fool</a></p>
-          <p><time datetime="2014-09-01T00:00:00+00:00">1st September 2014</time> - Present</p>
+            <h4 class='jobtitle' itemprop="jobTitle">Developer</h4>
+            <p><a href="http://thefool.it" itemprop="name">The Fool s.r.l.</a></p>
+            <p><time datetime="2014-09-01T00:00:00+00:00">1st September 2014</time> - Present</p>
+
+            <div itemprop="description">
+              <div class="col-md-12">
+                <p>I developed many projects pertaining digital assets management, copyright protection and personal reputation.</p>
+              </div>
+
+              <div itemtype="http://schema.org/Product">
+                <div class="col-md-2">
+                  <img src="/images/resume/logo_ec.png" itemprop="image" alt="Engagement Console logo" />
+                </div>
+
+                <div class="col-md-9">
+                  <p>
+                    The most prominent is probably <a href="http://ec.reputationmonitor.it/" itemprop="url"><span itemprop="name">EngagementConsole</span></a>,
+                    <span itemprop="description">
+                      an application that acts as a gateway layer to collect all user generated content from all digital properties (Twitter, Facebook, Instagram,
+                      Disqus, Wordpress) managed by the customer at hand, that are then presented via a customized dashboard that lets classify, analyze and manage
+                      all the content by any number of moderators and managers.
+                    </span>
+                  </p>
+
+                  <p>
+                    This application is used by many companies to manage their online assets, just to name a few <a href='https://www.bancamediolanum.it/'>Banca Mediolanum </a>,
+                    <a hred='http://www.radio24.ilsole24ore.com/'> Radio24 </a> and <a href='http://en.volkswagen.com/en.html'>Volkswagen</a>.
+                  </p>
+                </div>
+
+                <div class="col-md-12">
+                  <p>I do many other things at <a href="http://thefool.it">The Fool s.r.l.</a>, where I plan, develop, maintain and deploy several web applications, data extraction
+                    tools and services.</p>
+
+                  <p>The main language involved is <a href='https://www.ruby-lang.org/'>Ruby</a>, both plain and with frameworks such as <a href='http://rubyonrails.org/'>RubyOnRails</a>
+                    and <a href='http://www.sinatrarb.com/'>Sinatra</a>, and some things have been coded in <a href='https://www.javascript.com/'>Javascript</a>.<br>
+                    We use data stores like <a href='https://www.mysql.com/'>MySQL</a> and <a href='https://www.mongodb.org/'>MongoDB</a> for bigger projects and sometimes smaller embedded
+                    engines like <a href='http://symas.com/mdb/'>LMDB</a> or <a href='http://www.gnu.org.ua/software/gdbm/'>GDBM</a>.<br>
+                    Many projects involve integrating with <a href='https://www.elastic.co/'>Elastic Search</a>.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class='col-md-12 entry'>
+          <div itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+            <h4 class='jobtitle' itemprop="jobTitle">Lead Developer</h4>
+            <p><a href='https://www.antonioli.eu/en/IT' itemprop='name'>Antonioli.eu</a></p>
+            <p><time datetime="2014-04-01T00:00:00+00:00">1st April 2014</time> - <time datetime="2014-08-29T00:00:00+00:00">29th August 2014</time></p>
+          </div>
 
           <div itemprop="description">
-            <p>I developed many projects pertaining digital assets management, copyright protection and personal reputation.</p>
-            <p itemtype="http://schema.org/Product">
-              The most prominent is probably <a href="http://ec.reputationmonitor.it/" itemprop="url"><span itemprop="name">EngagementConsole</span></a>,
-              <span itemprop="description">
-                an application that acts as a gateway layer to collect all user generated content from all digital properties (Twitter, Facebook, Instagram,
-                Disqus, Wordpress) managed by the customer at hand, that are then presented via a customized dashboard that lets classify, analyze and manage
-                all the content by any number of moderators and managers.
-              </span>
-            </p>
-          </p>
+            <div class="col-md-12">
+              <div itemtype="http://schema.org/Product">
+                <div class="col-md-2">
+                  <img src="/images/resume/logo_antonioli.png" itemprop="image" alt="Antonioli logo"/>
+                </div>
+                <div class="col-md-9">
+                  <p>
+                    During my short stay I helped in the development of their <a href="http://ec.reputationmonitor.it/" itemprop="url"><span itemprop="name"> new E-Commerce site </span></a> site.
+                    I was the only developer working for them and I had to manage the project with external developers:
+                    <span itemprop="description">
+                      the website was very complex as Antonioli is available worldwide and has to take care of the different tax rates and regulations and also have a very thorough administration interface
+                      to allow non techinical users to manage the products and the sale process.
+                    </span>
+                  </p>
+
+                  <p>I also had to maintain the legacy website, which was a disgraceful mess in RubyOnRails 2.0 developed by many people in a time span of more than 6 years.</p>
+
+                  <p>The technologies involved where <a href='https://www.ruby-lang.org/'>Ruby</a> and <a href='http://rubyonrails.org/'>RubyOnRails</a>, the new website was built using the
+                    <a href="https://spreecommerce.com/">Spree framework</a>.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class='col-md-12 entry'>
+          <div itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+
+            <h4 class='jobtitle' itemprop="jobTitle">Developer</h4>
+            <p><a href="http://it.sportboom.com/" itemprop="name url">Sportboom</a></p>
+            <p><time datetime="2013-05-01T00:00:00+00:00">1st May 2013</time> - <time datetime="2014-03-29T00:00:00+00:00">29th March 2014</time></p>
+          </div>
         </div>
 
       </section>
-
     </div>
+
+    <script type="text/javascript">
+      $(".nav a").on("click", function(){
+        $(".nav").find(".active").removeClass("active");
+        $(this).parent().addClass("active");
+      });
+    </script>
   </body>
 </html>
