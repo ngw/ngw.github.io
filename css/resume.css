@@ -65,3 +65,7 @@ section {
 .dead {
   text-decoration: line-through;
 }
+
+.description {
+  margin-top: 0.8em;
+}
