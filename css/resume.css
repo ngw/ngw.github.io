@@ -54,6 +54,14 @@ section {
   margin: 1.5em 0 1.5em 0;
 }
 
+.entry img {
+  margin: 0.2em;
+}
+
 .jobtitle {
   font-weight: bold;
+}
+
+.dead {
+  text-decoration: line-through;
 }
