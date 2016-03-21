@@ -7,7 +7,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h3 {
-  margin: 2em 0 1em 0;
+  margin: 1em 0 1em 0;
   color: green;
   font-weight: bold;
 }
@@ -36,10 +36,11 @@ nav {
 
 section {
   font-size: 1.2em;
+  margin: 4em;
 }
 
-#contact {
-  font-size: 1.2em;
+#contact, #education {
+  font-size: 1.4em;
 }
 
 #contact dl dt {
