@@ -1,5 +1,6 @@
 body {
   font-family: 'Fanwood Text', serif;
+  margin-top: 6em;
 }
 
 h1, h2, h3, h4, h5 {
@@ -35,6 +36,8 @@ nav {
 }
 
 section {
+  padding-top: 2em;
+  margin-top -6em;
   font-size: 1.2em;
 }
 
@@ -68,4 +71,8 @@ section {
 
 .description {
   margin-top: 0.8em;
+}
+
+.navbar .navbar-collapse {
+  margin-left: 4em;
 }
