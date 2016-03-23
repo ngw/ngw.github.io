@@ -77,3 +77,15 @@ section {
 .navbar .navbar-collapse {
   margin-left: 4em;
 }
+
+.available {
+  margin: 1.5em;
+  padding: 0.5em 1em;
+  background-color: #fffda5;
+  border: 0.1em red dashed;
+}
+
+.available h4 {
+  color: red;
+  font-weight: bold;
+}

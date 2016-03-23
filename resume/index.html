@@ -8,6 +8,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
     <title>Nicholas George Wieland resume</title>
+    <link href="/images/resume/favicon.ico" rel="icon" type="image/x-icon" />
     <meta name="description" content="Nicholas George Wieland (ngw) resume. Last update 3/2/2016.">
     <meta name="author" content="Nicholas George Wieland (ngw)">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,6 +22,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
         </button>
       </div>
 
@@ -30,6 +32,7 @@
           <li><a href="#skills">Skills</a></li>
           <li><a href="#education">Education</a></li>
           <li><a href="#experience">Work experience</a></li>
+          <li><a href="#me">About me</a></li>
         </ul>
       </div>
     </nav>
@@ -39,7 +42,7 @@
         <header>
           <div class='col-md-12'>
             <h1>Nicholas George Wieland (<acronym title='Nicholas George Wieland'>ngw</acronym>) resume</h1>
-            <h4>last updated: <time datetime="2016-03-03T15:33:38+00:00">3-2-2016 15:33</time></h4>
+            <h4>last updated: <time datetime="2016-03-23T11:15:19+01:00">23-3-2016 11:15</time></h4>
           </div>
         </header>
       </div>
@@ -81,22 +84,24 @@
       <section id='skills' class='row'>
         <h3>Skills</h3>
 
-        <p>I’m an experienced developer with Ruby and Python. I know Javascript as well, and I worked in PHP in the past.</p>
-        <p>I have a lot of experience with RubyOnRails and Sinatra, and I also did some Padrino in the past with great pleasure.</p>
-        <p>I love design, I can work with HTML and CSS without any kind of problem. I also love studing the subject and I am a strong proposer of usability and accessibility. I’ve conducted some usability tests in the past
-          and I would love to repeat the experience.</p>
-        <p>I enjoy database systems, and I’ve used most of them during my work life: MySQL, SQLServer, Oracle are just some names. I strongly support PostgreSQL as my DB server of choice. I’m also fond of NoSQL databases, especially MongoDB,
-          which I used in production.</p>
-        <p>I can work on any kind of Unix system, and even if I’m not a sysadmin I can also administer them. Personally, I prefer working on OS X, but I’m glad to get my hands dirty with FreeBSD or Linux too.
-          I do not enjoy working on Windows, so please, don’t be silly and give me an environment I’m productive with.</p>
+        <div class='col-md-12'>
+          <p>I’m an experienced developer with Ruby and Python. I know Javascript as well, and I worked in PHP in the past.</p>
+          <p>I have a lot of experience with RubyOnRails and Sinatra, and I also did some Padrino in the past with great pleasure.</p>
+          <p>I love design, I can work with HTML and CSS without any kind of problem. I also love studing the subject and I am a strong proposer of usability and accessibility. I’ve conducted some usability tests in the past
+            and I would love to repeat the experience.</p>
+          <p>I enjoy database systems, and I’ve used most of them during my work life: MySQL, SQLServer, Oracle are just some names. I strongly support PostgreSQL as my DB server of choice. I’m also fond of NoSQL databases, especially MongoDB,
+            which I used in production.</p>
+          <p>I can work on any kind of Unix system, and even if I’m not a sysadmin I can also administer them. Personally, I prefer working on OS X, but I’m glad to get my hands dirty with FreeBSD or Linux too.
+            I do not enjoy working on Windows, so please, don’t be silly and give me an environment I’m productive with.</p>
+        </div>
       </section>
 
       <section id='education' class='row'>
-
         <h3>Education</h3>
 
-        <p>Liceo Linguistico Redentore</p>
-
+        <div class='col-md-12'>
+          <p>Liceo Linguistico Redentore</p>
+        </div>
       </section>
 
       <section id='experience' class='row'>
@@ -261,6 +266,11 @@
                     <p>The tecnhologies I used were <a href='https://www.ruby-lang.org/'>Ruby</a> and <a href='http://rubyonrails.org/'>RubyOnRails</a>
                       with <a href="https://www.mongodb.org/">MongoDB</a>. The portfolios were static websites hosted on <a href="https://aws.amazon.com/s3">S3</a>
                       very cheaply and composed by a service I built with <a http="https://github.com/postrank-labs/goliath">Goliath.io</a>.</p>
+                  </div>
+
+                  <div class="col-md-5 available">
+                    <h4>Code available for review</h4>
+                    <p><a href="mailto: ngw@nofeed.org">Ask me</a> and I'll give you rights for the BitBucket repository</p>
                   </div>
                 </div>
               </div>
@@ -456,7 +466,63 @@
           </div>
         </div>
 
+        <h3>Other projects</h3>
 
+        <div class='col-md-12 entry'>
+          <div itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+            <h4 class='jobtitle' itemprop="jobTitle">CEO</h4>
+            <p><a href="http://petswantpats.com/" itemprop="name url">PetsWantPats</a></p>
+            <p><time datetime="2015-09-01T00:00:00+00:00">1st September 2015</time> - Present</p>
+            <p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+              <span itemprop="addressLocality">Italy</span>
+            </p>
+            <div itemprop="description" class='description'>
+              <div class="col-md-12">
+                <div itemtype="http://schema.org/Product">
+                  <div class="col-md-9">
+                    <p>I always loved animals and dogs in particular, and I wanted to build something to help stray dogs find a new home.</p>
+
+                    <p>I developed the <a href="http://petswantpats.com" itemprop="url"><span itemprop="name">PetsWantPats</span></a> to help people
+                      in search of a new dog to find the perfect match.<br />
+                      <span itemprop="description">PetsWantPats is a search engine that lets dog shelters list their dogs for adoption.</span></p>
+
+                    <p>The entire project is financed by me and is a nonprofit.</p>
+
+                    <p>The website is in <a href='http://rubyonrails.org/'>RubyOnRails</a> with some <a href='https://www.javascript.com/'>Javascript</a>.
+                      I wanted to experiment a bit and learn in the process, that's why the whole frontend is in <a href="http://haml.info/">HAML</a>.<br />
+                      The DBMS is <a href="http://www.postgresql.org/">PostgreSQL</a> and the search engine is built around
+                      <a href='https://www.elastic.co/'>Elastic Search</a>.</p>
+                  </div>
+
+                  <div class="col-md-2">
+                    <img src="/images/resume/logo_pwp.png" itemprop="image" alt="PetsWantPats logo" />
+                  </div>
+
+                  <div class="col-md-5 available">
+                    <h4>Code available for review</h4>
+                    <p><a href="mailto: ngw@nofeed.org">Ask me</a> and I'll give you rights for the BitBucket repository</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id='me' class='row'>
+
+        <h3>About me</h3>
+
+        <div class='col-md-12'>
+          <p>I’m an experienced developer with Ruby and Python. I know Javascript as well, and I worked in PHP in the past.</p>
+          <p>I have a lot of experience with RubyOnRails and Sinatra, and I also did some Padrino in the past with great pleasure.</p>
+          <p>I love design, I can work with HTML and CSS without any kind of problem. I also love studing the subject and I am a strong proposer of usability and accessibility. I’ve conducted some usability tests in the past
+            and I would love to repeat the experience.</p>
+          <p>I enjoy database systems, and I’ve used most of them during my work life: MySQL, SQLServer, Oracle are just some names. I strongly support PostgreSQL as my DB server of choice. I’m also fond of NoSQL databases, especially MongoDB,
+            which I used in production.</p>
+          <p>I can work on any kind of Unix system, and even if I’m not a sysadmin I can also administer them. Personally, I prefer working on OS X, but I’m glad to get my hands dirty with FreeBSD or Linux too.
+            I do not enjoy working on Windows, so please, don’t be silly and give me an environment I’m productive with.</p>
+        </div>
       </section>
     </div>
 
