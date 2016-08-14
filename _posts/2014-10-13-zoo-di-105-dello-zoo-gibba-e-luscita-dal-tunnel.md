@@ -145,7 +145,7 @@ Non voglio fare dietrologia spiccia, ma se io me ne vado da un'azienda e mando a
 La conclusione non lascia spazio a chiacchiere:
 
 <blockquote>Ad oggi Gibba non ha nessuna proposta scritta da vagliare, solo fiumi di parole in un alternarsi di cifre, prima più vicine alle mie richieste, poi persino azzerate; sfido chiunque a dichiarare il contrario!
-Rispetto e riconoscenza verso tutti, sempre. Ma esigo altrettanto. 
+Rispetto e riconoscenza verso tutti, sempre. Ma esigo altrettanto.
 Alla fine passare per un mercenario non lo potevo proprio accettare.
 Se raggiungerò un accordo -ed è quello che auspico - sarò felice e onorato di far parte del progetto iniziato 15 anni fa con Marco, al quale va tutta la mia stima e gratitudine per un bellissimo percorso - a volte anche accidentato ma vincente.</blockquote>
 
@@ -307,7 +307,7 @@ Ecco, **facciamo che abbiamo scherzato**, e visto che per qualche motivo i compo
 
 <hr />
 
-##O Generale mio Generale.
+## O Generale mio Generale.
 
 <figure>
     <img src="/images/6/capitano_mio_capitano.gif" />
